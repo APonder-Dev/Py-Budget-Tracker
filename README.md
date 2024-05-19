@@ -119,5 +119,5 @@ For any questions or suggestions, please open an issue on the GitHub repository.
 
 ### Notes:
 - Replace `your-username` in the clone URL with your actual GitHub username if you plan to host this on GitHub.
-- Ensure that the file names (`budget_tracker_cli.py` and `budget_tracker_gui.py`) match the actual file names you have used in your project. If they are different, update the README accordingly.
+- Ensure that the file names (`Budget Tracker.py` and `Budget Tracker(GUI).py`) match the actual file names you have used in your project. If they are different, update the README accordingly.
 - Include the `LICENSE` file in your repository if you choose to specify a license.
