@@ -57,8 +57,8 @@ A simple Python application to track your income and expenses, with features for
 ```
 personal-budget-tracker/
 │
-├── budget_tracker_cli.py     # Command-line version of the budget tracker
-├── budget_tracker_gui.py     # GUI version of the budget tracker using Tkinter
+├── budget tracker.py     # Command-line version of the budget tracker
+├── budget tracker(GUI).py     # GUI version of the budget tracker using Tkinter
 └── README.md                 # This README file
 ```
 
