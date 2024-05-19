@@ -1,4 +1,7 @@
 """
+Created By Anthony -- 5/18/2024 
+https://github.com/Wazupbutrcup
+
 Personal Budget Tracker with GUI
 The Personal Budget Tracker application provides a user-friendly graphical interface to manage your financial transactions, categorize expenses, and generate detailed reports. 
 Built using Python and the Tkinter library, this application offers a simple yet effective way to keep track of your income and expenses.
