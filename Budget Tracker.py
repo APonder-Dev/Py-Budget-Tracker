@@ -1,6 +1,6 @@
 """
-Created Anthony -- 5/18/2024 
-Wazupbutrcup.github.io
+Created By Anthony -- 5/18/2024 
+https://github.com/Wazupbutrcup
 
 This application will allow you to:
 
