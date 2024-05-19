@@ -36,7 +36,7 @@ A simple Python application to track your income and expenses, with features for
 ### Command-line Version
 1. Run the script:
     ```bash
-    python budget_tracker_cli.py
+    python budget tracker.py
     ```
 
 2. Follow the prompts to add income, add expenses, view transactions, and generate reports.
@@ -44,7 +44,7 @@ A simple Python application to track your income and expenses, with features for
 ### GUI Version
 1. Run the script:
     ```bash
-    python budget_tracker_gui.py
+    python budget tracker(GUI).py
     ```
 
 2. Use the graphical interface to interact with the application:
